@@ -1,0 +1,6 @@
+area_sqft,bedrooms,bathrooms,distance_to_center_km,amenities_score,age_of_property_years,price_in_thousands
+1200,3,2,5.0,7,5,75
+900,2,1,8.2,5,10,50
+1500,4,3,3.5,9,3,95
+800,2,1,10.0,4,15,45
+1300,3,2,4.8,6,7,80
